@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jak na VŠE]]></title>
+        <description><![CDATA[Jak na VŠE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 20:53:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b726c7a1-4312-4b1b-95ed-714ae51e797a.jpg">]]></description>
+            <link>undefinedkompletni-pruvodce-zacatky-studia-na-vse/index.html</link>
+            <guid isPermaLink="false">4ed1580a-6440-48d0-83c0-7876944d2c26</guid>
+            <pubDate>Sun, 10 Apr 2016 20:50:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
